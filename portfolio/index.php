@@ -123,7 +123,6 @@ img.emoji {
 <link rel='stylesheet' id='pelicula-style-css' href='../../wp-content/themes/pelicula/style%EF%B9%96ver=5.4.1.css' type='text/css' media='all' />
 <style id='pelicula-style-inline-css' type='text/css'>#qodef-page-footer-top-area { background-color: #000000;}#qodef-page-footer-bottom-area { background-color: #000000;border-top-color: rgba(255,255,255,0.1);border-top-width: 2px;}#qodef-page-spinner .qodef-m-inner { background-color: #000000;color: #ffffff;}.qodef-page-title { height: 250px;background-image: url(../../wp-content/uploads/2020/03/title-image-1.jpg);}a, p a { letter-spacing: 0px;}@media only screen and (max-width: 1024px){h1 { font-size: 62px;line-height: 62px;}h2 { font-size: 60px;line-height: 60px;}h4 { font-size: 27px;line-height: 27px;}}@media only screen and (max-width: 768px){h1 { font-size: 58px;line-height: 58px;}h5 { font-size: 22px;line-height: 23px;}}@media only screen and (max-width: 680px){h1 { font-size: 52px;line-height: 50px;}h2 { font-size: 45px;line-height: 43px;}h3 { font-size: 32px;line-height: 34px;}h4 { font-size: 30px;line-height: 28px;}}
 </style>
-<link rel='stylesheet' id='qode-zendesk-chat-css' href='../../wp-content/plugins/qode-zendesk-chat/assets/main%EF%B9%96ver=5.4.1.css' type='text/css' media='all' />
 <script type='text/javascript' src='../../wp-includes/js/jquery/jquery%EF%B9%96ver=1.12.4-wp.js'></script>
 <script type='text/javascript' src='../../wp-includes/js/jquery/jquery-migrate.min%EF%B9%96ver=1.4.1.js'></script>
 <script type='text/javascript' src='../../wp-content/plugins/revslider/public/assets/js/rbtools.min%EF%B9%96ver=6.0.2.js'></script>
@@ -597,23 +596,6 @@ var qodefMapsVariables = {"global":{"mapStyle":"","mapZoom":12,"mapScrollable":f
 <script type='text/javascript' src='../../wp-content/plugins/elementor/assets/lib/swiper/swiper.min%EF%B9%96ver=5.3.6.js'></script>
 <script type='text/javascript' src='../../wp-content/themes/pelicula/assets/plugins/magnific-popup/jquery.magnific-popup.min%EF%B9%96ver=5.4.1.js'></script>
 <script type='text/javascript' src='../../wp-content/plugins/woocommerce/assets/js/select2/select2.full.min%EF%B9%96ver=4.0.3.js'></script>
-<script type="text/javascript" src="https://static.zdassets.com/ekr/snippet.js?key=af3078fd-a5ae-40da-bee0-e589b98c8603&amp;ver=5.4.1" id="ze-snippet"></script><script type="text/javascript">
-						zE(function(){
-							$zopim(function(){
-								var isChatEnabled = sessionStorage.getItem("qodeChatEnabled"),
-									appearingTime = 15000;
-								
-								if(isChatEnabled !== "no") {
-									setTimeout(function(){
-										$zopim.livechat.window.show();
-										
-										 $zopim.livechat.window.onHide(function(){
-										    sessionStorage.setItem("qodeChatEnabled", "no");
-										 });
-									}, appearingTime);
-								}
-							});
-						});
 						</script><script type='text/javascript' src='../../wp-includes/js/wp-embed.min%EF%B9%96ver=5.4.1.js'></script>
 <script type='text/javascript' src='../../wp-content/plugins/pelicula-core/inc/post-types/portfolio/shortcodes/portfolio-list/variations/info-below/hover-animations/tilt/assets/js/plugins/tilt.jquery.min%EF%B9%96ver=1.js'></script>
 <script type='text/javascript'>
