@@ -15,6 +15,6 @@
     <div>
         <p>Sorry for the inconvenience but this page is under construction. If you need to reach us, you can always <a href="mailto:support@brstore.us">contact us</a>, otherwise we&rsquo;ll be back online shortly!</p>
         <p>&mdash; B&R Tech Team</p>
-        <p href="https://reelcaremedia.com">Back To Reel Care Media 🎥</p>
+        <a href="https://reelcaremedia.com">Back To Reel Care Media 🎥</a>
     </div>
 </article>
