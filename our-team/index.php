@@ -128,7 +128,6 @@ img.emoji {
 <link rel='stylesheet' id='elementor-frontend-css' href='../wp-content/plugins/elementor/assets/css/frontend.min%EF%B9%96ver=2.9.8.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-global-css' href='../wp-content/uploads/elementor/css/global%EF%B9%96ver=1627403411.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-1251-css' href='../wp-content/uploads/elementor/css/post-1251%EF%B9%96ver=1627410464.css' type='text/css' media='all' />
-<link rel='stylesheet' id='qode-zendesk-chat-css' href='../wp-content/plugins/qode-zendesk-chat/assets/main%EF%B9%96ver=5.4.1.css' type='text/css' media='all' />
 <script type='text/javascript' src='../wp-includes/js/jquery/jquery%EF%B9%96ver=1.12.4-wp.js'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min%EF%B9%96ver=1.4.1.js'></script>
 <script type='text/javascript' src='../wp-content/plugins/revslider/public/assets/js/rbtools.min%EF%B9%96ver=6.0.2.js'></script>
@@ -648,23 +647,6 @@ var qodefMapsVariables = {"global":{"mapStyle":"","mapZoom":12,"mapScrollable":f
 <script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/swiper/swiper.min%EF%B9%96ver=5.3.6.js'></script>
 <script type='text/javascript' src='../wp-content/themes/pelicula/assets/plugins/magnific-popup/jquery.magnific-popup.min%EF%B9%96ver=5.4.1.js'></script>
 <script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/select2/select2.full.min%EF%B9%96ver=4.0.3.js'></script>
-<script type="text/javascript" src="https://static.zdassets.com/ekr/snippet.js?key=af3078fd-a5ae-40da-bee0-e589b98c8603&amp;ver=5.4.1" id="ze-snippet"></script><script type="text/javascript">
-						zE(function(){
-							$zopim(function(){
-								var isChatEnabled = sessionStorage.getItem("qodeChatEnabled"),
-									appearingTime = 15000;
-								
-								if(isChatEnabled !== "no") {
-									setTimeout(function(){
-										$zopim.livechat.window.show();
-										
-										 $zopim.livechat.window.onHide(function(){
-										    sessionStorage.setItem("qodeChatEnabled", "no");
-										 });
-									}, appearingTime);
-								}
-							});
-						});
 						</script><script type='text/javascript' src='../wp-includes/js/wp-embed.min%EF%B9%96ver=5.4.1.js'></script>
 <script type='text/javascript' src='../wp-content/plugins/qi-addons-for-elementor/inc/masonry/assets/js/plugins/isotope.pkgd.min%EF%B9%96ver=5.4.1.js'></script>
 <script type='text/javascript' src='../wp-content/plugins/qi-addons-for-elementor/inc/masonry/assets/js/plugins/packery-mode.pkgd.min%EF%B9%96ver=5.4.1.js'></script>
