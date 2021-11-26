@@ -147,16 +147,16 @@ img.emoji {
 <meta property='og:site_name' content='Reel Care Media' />
 <meta property='og:url' content='https://reelcaremedia.com' />
 <meta property='og:locale' content='en_US' />
-<meta property='og:description' content='Reel Care Media - Video Production and Movie Company ' />
-<meta property='og:title' content='Reel Care Media - Video Production and Movie Company' />
+<meta property='og:description' content='Reel Care Media - Video and Film Production Company' />
+<meta property='og:title' content='Reel Care Media - Video and Film Production Company' />
 <meta property='og:type' content='website' />
 <meta property='og:image' content='https://reelcaremedia.com/img/banner.png' />
 <meta property='og:image:width' content='1200' />
 <meta property='og:image:height' content='630' />
 <meta name='twitter:card' content='summary' />
-<meta name='twitter:title' content='Reel Care Media - Video Production and Movie Company' />
+<meta name='twitter:title' content='Reel Care Media - Video and Film Production Company' />
 <meta name='twitter:image' content='https://reelcaremedia.com/img/banner.png' />
-<meta name='twitter:description' content='Reel Care Media - Video Production and Movie Company ' />
+<meta name='twitter:description' content='Reel Care Media - Video and Film Production Company ' />
 
 
 <script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
@@ -172,7 +172,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 
  <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-<meta name="generator" content="Reel Care Media - Video Production and Movie Company" />
+<meta name="generator" content="Reel Care Media - Video and Film Production Company" />
 <link rel="icon" href="/img/favicon/RCM_favicon32.png" sizes="32x32" />
 <link rel="icon" href="/img/favicon/RCM_favicon192.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="/img/favicon/RCM_favicon192.png" />
